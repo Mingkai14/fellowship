@@ -31,7 +31,7 @@ bioschemas:
   - "@type": "Person"
     name: "Krzysztof Poterlowicz"
   competencyRequired:
-  - "@type": "URL"
+  - "@type": "DefinedTerm"
     name: "FAIR Data, Workflows, and Research"
     url: "https://training.galaxyproject.org/training-material/topics/fair/"
   educationalLevel: "Beginner"
