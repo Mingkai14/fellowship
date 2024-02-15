@@ -65,4 +65,9 @@
   <!-- Mingkai's script giving errors
     <script src="/js/from_Mingkai.js"></script>
   -->
+  {% if page.bioschemas %}
+    <script type="application/ld+json">
+        {{ page.bioschemas | jsonify }}
+    </script>
+  {% endif %}
 </head>
