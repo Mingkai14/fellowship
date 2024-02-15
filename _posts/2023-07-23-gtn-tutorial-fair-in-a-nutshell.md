@@ -10,7 +10,7 @@ featured: true
 go_to: https://gxy.io/GTN:T00351
 link_tag: GTN tutorial
 bioschemas:
-  "@context": "https://fellowship.elixiruknode.org/latest/gtn-tutorial-fair-in-a-nutshell"
+  "@context": "https://schema.org/"
   "@type": LearningResource
   "http://purl.org/dc/terms/conformsTo":
   - "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
