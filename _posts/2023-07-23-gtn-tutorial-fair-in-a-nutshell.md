@@ -31,7 +31,7 @@ bioschemas:
   - "@type": "Person"
     name: "Krzysztof Poterlowicz"
   competencyRequired:
-  - "@type": "WebSite"
+  - "@type": "LearningResource"
     name: "FAIR Data, Workflows, and Research"
     url: "https://training.galaxyproject.org/training-material/topics/fair/"
   educationalLevel: "Beginner"
@@ -60,7 +60,7 @@ bioschemas:
   dateModified: "2023-11-03T00:00:00Z"
   datePublished: "2023-11-03T00:00:00Z"
   recordedAt:
-  - "@type": "WebSite"
+  - "@type": "CreativeWork"
     name: "FAIR in a nutshell"
     url: "https://training.galaxyproject.org/training-material/topics/fair/tutorials/fair-intro/tutorial.html"
   version: "0.0.1"
