@@ -19,8 +19,8 @@ bioschemas:
   keywords: "FAIR, principles, nutshell"
   name: "GTN tutorial. FAIR in a nutshell"
   about:
-  - "@id": https://fellowship.elixiruknode.org/latest/gtn-tutorial-fair-in-a-nutshell
-  - "@id": https://bioportal.bioontology.org/ontologies/FDT-O
+  - "@id": "https://fellowship.elixiruknode.org/latest/gtn-tutorial-fair-in-a-nutshell"
+  - "@id": "https://bioportal.bioontology.org/ontologies/FDT-O"
   abstract: "A short introduction to the FAIR principles and their origin"
   audience:
   - "@type": "Audience"
@@ -33,7 +33,7 @@ bioschemas:
   competencyRequired:
   - "@type": "WebPage"
     name: "FAIR Data, Workflows, and Research"
-    url: https://training.galaxyproject.org/training-material/topics/fair/
+    url: "https://training.galaxyproject.org/training-material/topics/fair/"
   educationalLevel: "Beginner"
   identifier: "https://fellowship.elixiruknode.org/latest/gtn-tutorial-fair-in-a-nutshell"
   inLanguage: "en-US"
