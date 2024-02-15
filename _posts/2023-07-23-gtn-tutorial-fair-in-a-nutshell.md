@@ -63,7 +63,7 @@ bioschemas:
   - "@type": "Webinar"
     name: "FAIR in a nutshell"
     url: "https://training.galaxyproject.org/training-material/topics/fair/tutorials/fair-intro/tutorial.html"
-version: "0.0.1"
+  version: "0.0.1"
 
 ---
 
