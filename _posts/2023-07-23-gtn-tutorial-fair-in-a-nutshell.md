@@ -40,12 +40,6 @@ bioschemas:
   inLanguage: "en-US"
   learningResourceType: "hands on"
   license: "https://creativecommons.org/licenses/by/4.0/"
-  mentions:
-  - "@type": "Article"
-    "@id": "https://doi.org/10.1038/sdata.2016.18"
-    name: "The FAIR Guiding Principles for scientific data management and stewardship"
-    identifier: "DOI:10.1038/sdata.2016.18"
-    url: "https://doi.org/10.1038/sdata.2016.18"
   teaches:
   - "A short introduction to the FAIR principles and their origin"
   timeRequired: "PT10M"
