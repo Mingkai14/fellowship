@@ -7,6 +7,7 @@ author: [k-kamieniecka, k-poterlowicz]
 image:  '/images/gtn-tutorial.jpg'
 tags:   [Courses, FAIR data]
 featured: true
+sitemap: true
 go_to: https://gxy.io/GTN:T00351
 link_tag: GTN tutorial
 bioschemas:
